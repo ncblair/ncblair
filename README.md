@@ -1,16 +1,20 @@
-## Hi there 👋
+# Nathan Blair
 
-<!--
-**ncblair/ncblair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programmer and artist who builds tools for musicians.
 
-Here are some ideas to get you started:
+- **Digital Signal Processing Dev at [Lunacy](https://lunacy.audio)**
+- **M.S. from UCSB MAT**
+- **B.S. from UC Berkeley EECS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+
+- [plugins](https://nthn.gumroad.com)  
+- [website](https://nthnblair.com)  
+- [resume](https://nthnblair.com/resources/img/NathanBlair_resume_10_23.pdf)
+
+## Social
+
+- [instagram.com](https://instagram.com/nthnblair)
+- [twitter.com](https://twitter.com/nthnblair)  
+
+---
