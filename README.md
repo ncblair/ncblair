@@ -1,10 +1,5 @@
-programmer and artist who builds tools for musicians.
+programmer and artist building tools for musicians.
 
 - **Digital Signal Processing Dev at [Lunacy](https://lunacy.audio)**
 - **M.S. from UCSB MAT**
 - **B.S. from UC Berkeley EECS**
-
----
-- [plugins](https://nthn.gumroad.com)  
-- [website](https://nthnblair.com)  
-- [resume](https://nthnblair.com/resources/img/NathanBlair_resume_10_23.pdf)
